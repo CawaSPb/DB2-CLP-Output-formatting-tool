@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 """
-UNIX-style filter to reduce column widths in text tables.
+Db2 CLP output column-width reducer (UNIX text filter)
+
+Copyright 2026 Alexander Veremyev
+SPDX-License-Identifier: Apache-2.0
 
 Tables are recognized by:
 - Header lines with column names (can be multi-line, bottom-aligned)
