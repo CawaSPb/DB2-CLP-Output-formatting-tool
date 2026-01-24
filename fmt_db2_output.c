@@ -1,8 +1,9 @@
 /*
-  DB2 CLP output formatting 
-
-  (C) Alexander Veremyev 2016
-*/
+ * Db2 CLP output column-width reducer (UNIX text filter)
+ *
+ * Copyright 2016, 2026 Alexander Veremyev
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 #include <stdlib.h>
 #include <stdio.h>
