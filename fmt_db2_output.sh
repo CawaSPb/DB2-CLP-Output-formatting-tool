@@ -1,4 +1,10 @@
 #!/bin/bash
+#
+# Db2 CLP output column-width reducer (UNIX text filter)
+#
+# Copyright 2026 Alexander Veremyev
+# SPDX-License-Identifier: Apache-2.0
+#
 # UNIX-style filter to reduce column widths in text tables.
 # Uses awk for processing with bash wrapper for BOM/line-ending handling.
 #
